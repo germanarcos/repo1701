@@ -5,5 +5,5 @@
 - Lo voy a clonar despues en mi máquina
 
 ## Observaciones
-1 Parece facil
-2 Espero que vaya bien
+1. Parece facil
+2. Espero que vaya bien
