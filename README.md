@@ -7,3 +7,10 @@
 ## Observaciones
 1. Parece facil
 2. Espero que vaya bien
+
+## Esto es lo primero que añado en local
+- Vamos a ver los siguientes:
+	- git status
+	- git add
+	- git commit
+	- git push
