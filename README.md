@@ -15,6 +15,7 @@
 	- git commit //toma instantanea
 	- git push //sube código a origin(remoto)
 	- git init //crea repositorio, directorio .git
+	- git clone () // copia a local el contenido de un repositorio git
 ## Repasando ideas:
 - Un fichero puede estar
 	- comprometido
